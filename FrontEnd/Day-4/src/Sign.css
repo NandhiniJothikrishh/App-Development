@@ -1,0 +1,72 @@
+/* styles.css */
+
+.signup-form {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 120px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(20, 20, 20, 20);
+    background-color: #fff;
+    text-align: center;
+    background-size: cover;
+
+  }
+  
+  .signup-form h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .form-control {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .form-control label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+    font-weight: bold;
+  }
+  
+  .form-control input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .form-control p.error {
+    margin-top: 5px;
+    color: red;
+    font-size: 14px;
+  }
+  
+  button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #dcdedf;
+  }
+  body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow-y: hidden;
+    
+  }
+  .font2
+  {
+    font-family:'Times New Roman', Times, serif;
+  }
